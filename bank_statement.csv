@@ -1,0 +1,6 @@
+Date,Description,Amount,Type,Category
+2025-05-01,Salary,50000,Credit,Income
+2025-05-03,Amazon Purchase,-1500,Debit,Shopping
+2025-05-05,ATM Withdrawal,-2000,Debit,Cash Withdrawal
+2025-05-10,Freelance Payment,7000,Credit,Income
+2025-05-11,Electricity Bill,-1200,Debit,Bills

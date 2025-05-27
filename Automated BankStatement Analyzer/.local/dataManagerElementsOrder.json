@@ -1,0 +1,55 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "main1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "attachmentList&Sequence_1",
+        "variable7&Sequence_1",
+        "attachmentPath&Sequence_1",
+        "variable4&Sequence_1",
+        "outputPath&Sequence_2",
+        "email&Sequence_1",
+        "variable1&Sequence_1",
+        "userName&Sequence_1",
+        "variable6&Sequence_2",
+        "variable5&Sequence_2",
+        "ex&Sequence_2",
+        "excelWorkbook&Sequence_2",
+        "vbaHighlightCode&Sequence_1",
+        "variable3&Sequence_1",
+        "bankData&Sequence_1",
+        "totalCredit&Sequence_1",
+        "totalDebit&Sequence_1",
+        "summaryTable&Sequence_1",
+        "expenseCategories&Sequence_1",
+        "variable2&Sequence_1",
+        "filteredData&Sequence_1",
+        "balance&Sequence_2",
+        "startDate&Sequence_2",
+        "endDate&Sequence_2",
+        "currentCategory&Sequence_7",
+        "currentAmount&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
